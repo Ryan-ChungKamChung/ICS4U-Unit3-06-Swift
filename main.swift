@@ -12,7 +12,7 @@ while iterator < 4 {
     print(boeing.speed)
 
     if boeing.speed > 5000 {
-        biplane.speed = biplane.speed * 2
+        biplane.speed *= 2
     } else {
         boeing.accelerate()
     }
