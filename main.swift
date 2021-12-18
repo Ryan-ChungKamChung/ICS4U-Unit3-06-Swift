@@ -1,3 +1,16 @@
+//
+//  main.swift
+//
+//  Created by Ryan Chung
+//  Created on 2021-12-14
+//  Version 1.0
+//  Copyright (c) 2021 Ryan Chung. All rights reserved.
+//
+//  This a stub program to display inheritance
+//
+
+
+// Stub airplane program that shows super and child classes
 let biplane = Airplane()
 biplane.speed = 212
 print(biplane.speed)
